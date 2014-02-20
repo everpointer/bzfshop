@@ -1,0 +1,17 @@
+[globals]
+
+sysConfig[db_pdo]="mysql:host=localhost;port=3306;dbname=my_bzfshop"
+sysConfig[db_username]="root"
+sysConfig[db_password]="ghz86377328"
+sysConfig[db_table_prefix]="bzf_"
+
+sysConfig[smarty_debug]=false
+sysConfig[smarty_force_compile]=false
+sysConfig[smarty_caching]=false
+sysConfig[smarty_use_sub_dirs]=false
+
+## 开启调试
+DEBUG=3
+
+## 使用我们自己的调试框架
+USERDEBUG=1
