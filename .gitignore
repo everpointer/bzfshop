@@ -17,3 +17,7 @@ src/asset
 src/manage/asset
 src/mobile/asset
 src/supplier/asset
+
+## ignore all config files, manually get from sample file
+src/protected/common-prod.cfg
+src/protected/common-dev-linux.cfg
